@@ -5,7 +5,7 @@ Haunschild & Reuter. Bridging from Crisis to Everyday Life – An Analysis of Us
 Accepted at CSCW 2021.
 
 It includes:
-[the Appendix](https://github.com/HaunschildJ/HaunschildReuter_CSCW2021_UserReviewsOfCOVID-19InformationApps/files/6916874/CSCW21_CovidApps_APPENDIX.pdf)
+[the Appendix](https://github.com/HaunschildJ/HaunschildReuter_CSCW2021_UserReviewsOfCOVID-19RegulationApps/files/6946398/CSCW21_CovidApps_APPENDIX.1.pdf)
 
 
 
