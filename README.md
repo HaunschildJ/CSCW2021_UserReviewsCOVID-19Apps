@@ -1,4 +1,4 @@
-# HaunschildReuter_CSCW2021_UserReviewsOfCOVID-19InformationApps
+# HaunschildReuter_CSCW2021_UserReviewsOfCOVID-19RegulationApps
 Repository of the paper:
 
 Haunschild & Reuter. Bridging from Crisis to Everyday Life – An Analysis of User Reviews of the Warning App NINA and the COVID-19 Information Apps CoroBuddy and DarfIchDas. 
